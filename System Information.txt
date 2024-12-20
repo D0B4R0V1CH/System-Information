@@ -1,0 +1,97 @@
+
+Computer Information:
+Manufacturer: HP
+Model: 81E0
+Form Factor: Desktop
+No Touch Input Detected
+Processor Information:
+CPU Vendor: GenuineIntel
+CPU Brand: Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz
+CPU Family: 0x6
+CPU Model: 0x3d
+CPU Stepping: 0x4
+CPU Type: 0x0
+Speed: 1900 MHz
+4 logical processors
+2 physical processors
+Hyper-threading: Supported
+FCMOV: Supported
+SSE2: Supported
+SSE3: Supported
+SSSE3: Supported
+SSE4a: Unsupported
+SSE41: Supported
+SSE42: Supported
+AES: Supported
+AVX: Supported
+AVX2: Supported
+AVX512F: Unsupported
+AVX512PF: Unsupported
+AVX512ER: Unsupported
+AVX512CD: Unsupported
+AVX512VNNI: Unsupported
+SHA: Unsupported
+CMPXCHG16B: Supported
+LAHF/SAHF: Supported
+PrefetchW: Unsupported
+BMI1: Supported
+BMI2: Supported
+F16C: Supported
+FMA: Supported
+Operating System Version:
+Ubuntu Core 22 (64 bit)
+Kernel Name: Linux
+Kernel Version: 6.8.0-51-generic
+X Server Vendor: The X.Org Foundation
+X Server Release: 12101011
+X Window Manager: GNOME Shell
+Steam Runtime Version: steam-runtime_0.20241024.105847
+Client Information:
+Version: 1733265492
+Browser GPU Acceleration Status: Disabled
+Browser Canvas: Disabled
+Browser Canvas out-of-process rasterization: Disabled
+Browser Direct Rendering Display Compositor: Disabled
+Browser Compositing: Disabled
+Browser Multiple Raster Threads: Disabled
+Browser OpenGL: Disabled
+Browser Rasterization: Disabled
+Browser Raw Draw: Disabled
+Browser Skia Graphite: Disabled
+Browser Video Decode: Disabled
+Browser Video Encode: Disabled
+Browser Vulkan: Disabled
+Browser WebGL: Disabled
+Browser WebGL2: Disabled
+Browser WebGPU: Disabled
+Browser WebNN: Disabled
+Video Card:
+Driver: AMD HAINAN (radeonsi, , LLVM 15.0.7, DRM 2.50, 6.8.0-51-generic)
+Driver Version: 4.5 (Compatibility Profile) Mesa 24.2.3 - kisak-mesa PPA
+Desktop Color Depth: 24 bits per pixel
+Monitor Refresh Rate: 60 Hz
+VendorID: 0x8086
+DeviceID: 0x1616
+Revision Not Detected
+Number of Monitors: 1
+Number of Logical Video Cards: 1
+Primary Display Resolution: 1366 x 768
+Desktop Resolution: 1366 x 768
+Primary Display Size: 12.17" x 6.81" (13.94" diag), 30.9cm x 17.3cm (35.4cm diag)
+Primary VRAM: 2048 MB
+Sound card:
+Audio device: %1$s
+Memory:
+RAM: 7856 Mb
+VR Hardware:
+VR Headset: None detected
+Miscellaneous:
+UI Language: English
+LANG: en_US.UTF-8
+Total Hard Disk Space Available: 936737 MB
+Largest Free Hard Disk Block: 741805 MB
+Storage:
+Number of SSDs: 1
+SSD sizes: 1000G
+Number of HDDs: 0
+Number of removable drives: 0
